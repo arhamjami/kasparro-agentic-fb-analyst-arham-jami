@@ -1,0 +1,10 @@
+python: "3.10"
+random_seed: 42
+confidence_min: 0.6
+use_sample_data: true
+sample_data_path: data/synthetic_fb_ads_undergarments.csv
+output_dir: reports
+ctr_low_threshold: 0.015
+roas_drop_pct: 0.20  # 20% drop threshold
+recent_window_days: 7
+baseline_window_days: 28

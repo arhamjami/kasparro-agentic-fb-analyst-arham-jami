@@ -1,0 +1,612 @@
+[
+  {
+    "id": "h_ OMEN  Cotton  Classics",
+    "hypothesis": "Creative underperformance",
+    "campaign": " OMEN  Cotton  Classics",
+    "rationale": "Average CTR 0.0102 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_ OMEN COTTON CLASSICS",
+    "hypothesis": "Creative underperformance",
+    "campaign": " OMEN COTTON CLASSICS",
+    "rationale": "Average CTR 0.0076 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_roas_ OMEN COTTON CLASSICS",
+    "hypothesis": "Low ROAS possibly due to audience mismatch or bids",
+    "campaign": " OMEN COTTON CLASSICS",
+    "rationale": "Avg ROAS 0.32 < 1",
+    "evidence_fields": [
+      "roas",
+      "audience_type",
+      "spend"
+    ],
+    "prior_confidence": 0.5
+  },
+  {
+    "id": "h_ en Premium Modal",
+    "hypothesis": "Creative underperformance",
+    "campaign": " en Premium Modal",
+    "rationale": "Average CTR 0.0144 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_ omen Summer Invisible",
+    "hypothesis": "Creative underperformance",
+    "campaign": " omen Summer Invisible",
+    "rationale": "Average CTR 0.0128 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_-omen-Studio Sports",
+    "hypothesis": "Creative underperformance",
+    "campaign": "-omen-Studio Sports",
+    "rationale": "Average CTR 0.0096 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_-omen_|_Studio_Sports",
+    "hypothesis": "Creative underperformance",
+    "campaign": "-omen_|_Studio_Sports",
+    "rationale": "Average CTR 0.0114 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_M-n Bold Colors Drop",
+    "hypothesis": "Creative underperformance",
+    "campaign": "M-n Bold Colors Drop",
+    "rationale": "Average CTR 0.0076 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_roas_M-n Bold Colors Drop",
+    "hypothesis": "Low ROAS possibly due to audience mismatch or bids",
+    "campaign": "M-n Bold Colors Drop",
+    "rationale": "Avg ROAS 0.71 < 1",
+    "evidence_fields": [
+      "roas",
+      "audience_type",
+      "spend"
+    ],
+    "prior_confidence": 0.5
+  },
+  {
+    "id": "h_ME- PREMIUM MODAL",
+    "hypothesis": "Creative underperformance",
+    "campaign": "ME- PREMIUM MODAL",
+    "rationale": "Average CTR 0.0117 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_roas_MEN  Si-nature  Soft",
+    "hypothesis": "Low ROAS possibly due to audience mismatch or bids",
+    "campaign": "MEN  Si-nature  Soft",
+    "rationale": "Avg ROAS 0.98 < 1",
+    "evidence_fields": [
+      "roas",
+      "audience_type",
+      "spend"
+    ],
+    "prior_confidence": 0.5
+  },
+  {
+    "id": "h_MEN  Signature  Soft",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN  Signature  Soft",
+    "rationale": "Average CTR 0.0146 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_MEN  Signture  Soft",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN  Signture  Soft",
+    "rationale": "Average CTR 0.0055 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_roas_MEN  Signture  Soft",
+    "hypothesis": "Low ROAS possibly due to audience mismatch or bids",
+    "campaign": "MEN  Signture  Soft",
+    "rationale": "Avg ROAS 0.33 < 1",
+    "evidence_fields": [
+      "roas",
+      "audience_type",
+      "spend"
+    ],
+    "prior_confidence": 0.5
+  },
+  {
+    "id": "h_MEN -ignature Soft",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN -ignature Soft",
+    "rationale": "Average CTR 0.0136 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_roas_MEN -ignature Soft",
+    "hypothesis": "Low ROAS possibly due to audience mismatch or bids",
+    "campaign": "MEN -ignature Soft",
+    "rationale": "Avg ROAS 0.86 < 1",
+    "evidence_fields": [
+      "roas",
+      "audience_type",
+      "spend"
+    ],
+    "prior_confidence": 0.5
+  },
+  {
+    "id": "h_MEN B LD COLORS DROP",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN B LD COLORS DROP",
+    "rationale": "Average CTR 0.0090 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_MEN BLD COLORS DROP",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN BLD COLORS DROP",
+    "rationale": "Average CTR 0.0101 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_roas_MEN BLD COLORS DROP",
+    "hypothesis": "Low ROAS possibly due to audience mismatch or bids",
+    "campaign": "MEN BLD COLORS DROP",
+    "rationale": "Avg ROAS 0.40 < 1",
+    "evidence_fields": [
+      "roas",
+      "audience_type",
+      "spend"
+    ],
+    "prior_confidence": 0.5
+  },
+  {
+    "id": "h_MEN BOL COLORS DROP",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN BOL COLORS DROP",
+    "rationale": "Average CTR 0.0045 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_roas_MEN BOL COLORS DROP",
+    "hypothesis": "Low ROAS possibly due to audience mismatch or bids",
+    "campaign": "MEN BOL COLORS DROP",
+    "rationale": "Avg ROAS 0.55 < 1",
+    "evidence_fields": [
+      "roas",
+      "audience_type",
+      "spend"
+    ],
+    "prior_confidence": 0.5
+  },
+  {
+    "id": "h_MEN BOLD  OLORS DROP",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN BOLD  OLORS DROP",
+    "rationale": "Average CTR 0.0061 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_roas_MEN BOLD  OLORS DROP",
+    "hypothesis": "Low ROAS possibly due to audience mismatch or bids",
+    "campaign": "MEN BOLD  OLORS DROP",
+    "rationale": "Avg ROAS 0.41 < 1",
+    "evidence_fields": [
+      "roas",
+      "audience_type",
+      "spend"
+    ],
+    "prior_confidence": 0.5
+  },
+  {
+    "id": "h_MEN BOLD COL RS DROP",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN BOLD COL RS DROP",
+    "rationale": "Average CTR 0.0054 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_roas_MEN BOLD COL RS DROP",
+    "hypothesis": "Low ROAS possibly due to audience mismatch or bids",
+    "campaign": "MEN BOLD COL RS DROP",
+    "rationale": "Avg ROAS 0.28 < 1",
+    "evidence_fields": [
+      "roas",
+      "audience_type",
+      "spend"
+    ],
+    "prior_confidence": 0.5
+  },
+  {
+    "id": "h_MEN BOLD COLORS DROP",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN BOLD COLORS DROP",
+    "rationale": "Average CTR 0.0092 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_MEN COMFORTMA LAUNCH",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN COMFORTMA LAUNCH",
+    "rationale": "Average CTR 0.0096 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_roas_MEN COMFORTMA LAUNCH",
+    "hypothesis": "Low ROAS possibly due to audience mismatch or bids",
+    "campaign": "MEN COMFORTMA LAUNCH",
+    "rationale": "Avg ROAS 0.22 < 1",
+    "evidence_fields": [
+      "roas",
+      "audience_type",
+      "spend"
+    ],
+    "prior_confidence": 0.5
+  },
+  {
+    "id": "h_MEN PREM-UM MODAL",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN PREM-UM MODAL",
+    "rationale": "Average CTR 0.0147 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_MEN PREMIUM -ODAL",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN PREMIUM -ODAL",
+    "rationale": "Average CTR 0.0131 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_MEN PREMIUM MOD-L",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN PREMIUM MOD-L",
+    "rationale": "Average CTR 0.0057 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_roas_MEN PREMIUM MOD-L",
+    "hypothesis": "Low ROAS possibly due to audience mismatch or bids",
+    "campaign": "MEN PREMIUM MOD-L",
+    "rationale": "Avg ROAS 0.34 < 1",
+    "evidence_fields": [
+      "roas",
+      "audience_type",
+      "spend"
+    ],
+    "prior_confidence": 0.5
+  },
+  {
+    "id": "h_MEN PREMIUM MODAL",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN PREMIUM MODAL",
+    "rationale": "Average CTR 0.0109 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_roas_MEN SIGATURE SOFT",
+    "hypothesis": "Low ROAS possibly due to audience mismatch or bids",
+    "campaign": "MEN SIGATURE SOFT",
+    "rationale": "Avg ROAS 0.36 < 1",
+    "evidence_fields": [
+      "roas",
+      "audience_type",
+      "spend"
+    ],
+    "prior_confidence": 0.5
+  },
+  {
+    "id": "h_MEN SIGNATUR  SOFT",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN SIGNATUR  SOFT",
+    "rationale": "Average CTR 0.0147 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_MEN SIGNATURE S-FT",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN SIGNATURE S-FT",
+    "rationale": "Average CTR 0.0142 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_MEN SIGNATURE SOFT",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN SIGNATURE SOFT",
+    "rationale": "Average CTR 0.0148 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_MEN SIGNATURE SOT",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN SIGNATURE SOT",
+    "rationale": "Average CTR 0.0118 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_MEN Sigature Soft",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN Sigature Soft",
+    "rationale": "Average CTR 0.0147 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_MEN Sign-ture Soft",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN Sign-ture Soft",
+    "rationale": "Average CTR 0.0140 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_roas_MEN Signa-ure Soft",
+    "hypothesis": "Low ROAS possibly due to audience mismatch or bids",
+    "campaign": "MEN Signa-ure Soft",
+    "rationale": "Avg ROAS 0.90 < 1",
+    "evidence_fields": [
+      "roas",
+      "audience_type",
+      "spend"
+    ],
+    "prior_confidence": 0.5
+  },
+  {
+    "id": "h_MEN Signatre Soft",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN Signatre Soft",
+    "rationale": "Average CTR 0.0149 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_MEN Signatu e Soft",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN Signatu e Soft",
+    "rationale": "Average CTR 0.0132 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_roas_MEN Signatu e Soft",
+    "hypothesis": "Low ROAS possibly due to audience mismatch or bids",
+    "campaign": "MEN Signatu e Soft",
+    "rationale": "Avg ROAS 0.49 < 1",
+    "evidence_fields": [
+      "roas",
+      "audience_type",
+      "spend"
+    ],
+    "prior_confidence": 0.5
+  },
+  {
+    "id": "h_roas_MEN Signatue Soft",
+    "hypothesis": "Low ROAS possibly due to audience mismatch or bids",
+    "campaign": "MEN Signatue Soft",
+    "rationale": "Avg ROAS 0.93 < 1",
+    "evidence_fields": [
+      "roas",
+      "audience_type",
+      "spend"
+    ],
+    "prior_confidence": 0.5
+  },
+  {
+    "id": "h_MEN Signature  oft",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN Signature  oft",
+    "rationale": "Average CTR 0.0123 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_MEN Signature Sft",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN Signature Sft",
+    "rationale": "Average CTR 0.0127 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_MEN Signature Soft",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN Signature Soft",
+    "rationale": "Average CTR 0.0145 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_MEN Signature Sot",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN Signature Sot",
+    "rationale": "Average CTR 0.0123 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_roas_MEN Signature Sot",
+    "hypothesis": "Low ROAS possibly due to audience mismatch or bids",
+    "campaign": "MEN Signature Sot",
+    "rationale": "Avg ROAS 0.95 < 1",
+    "evidence_fields": [
+      "roas",
+      "audience_type",
+      "spend"
+    ],
+    "prior_confidence": 0.5
+  },
+  {
+    "id": "h_MEN Sinature Soft",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN Sinature Soft",
+    "rationale": "Average CTR 0.0098 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_MEN-SIGNATURE SOFT",
+    "hypothesis": "Creative underperformance",
+    "campaign": "MEN-SIGNATURE SOFT",
+    "rationale": "Average CTR 0.0110 below threshold",
+    "evidence_fields": [
+      "ctr",
+      "creative_message"
+    ],
+    "prior_confidence": 0.6
+  },
+  {
+    "id": "h_roas_MEN-SIGNATURE SOFT",
+    "hypothesis": "Low ROAS possibly due to audience mismatch or bids",
+    "campaign": "MEN-SIGNATURE SOFT",
+    "rationale": "Avg ROAS 0.59 < 1",
+    "evidence_fields": [
+      "roas",
+      "audience_type",
+      "spend"
+    ],
+    "prior_confidence": 0.5
+  },
+  {
+    "id": "h_global_drop",
+    "hypothesis": "Recent ROAS drop vs baseline",
+    "rationale": "Compare recent window to baseline window",
+    "evidence_fields": [
+      "date",
+      "roas"
+    ],
+    "prior_confidence": 0.6
+  }
+]
